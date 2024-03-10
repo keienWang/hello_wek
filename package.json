@@ -1,0 +1,19 @@
+{
+  "name": "hello_wek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keienWang/hello_wek.git"
+  },
+  "author": "keienwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keienWang/hello_wek/issues"
+  },
+  "homepage": "https://github.com/keienWang/hello_wek#readme"
+}
